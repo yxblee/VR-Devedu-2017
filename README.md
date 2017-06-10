@@ -12,7 +12,7 @@ We are going to teach you how to build a mini VR game for Google Cardboard using
 * Prepare qualified intellectuals who will shape the future of industries
 
 ## Requirement
-Latest version of Unity. Unity 5.6+
+Latest version of Unity. Unity 5.6+ <a src="https://store.unity.com/download?ref=personal">https://store.unity.com/download?ref=personal</a>
 
 ## Project Demo
 ![maze](/Images/maze.png)
